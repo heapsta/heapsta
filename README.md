@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @heapsta
-- 📱 I'm a Dart and Flutter Developer based in 🇩🇪 Germany
-- 💞️ I’m looking to collaborate on cool flutter/dart projects 
+- 📱 I'm an Android and Flutter Developer
